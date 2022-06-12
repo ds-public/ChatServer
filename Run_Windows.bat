@@ -1,3 +1,3 @@
 chcp 65001
-.\TEMPLATE\Template.exe
+.\Windows\Template.exe
 pause
