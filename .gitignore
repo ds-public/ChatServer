@@ -52,6 +52,7 @@ Thumbs.db
 /.vsconfig
 /Logs
 /TEMPLATE
+/Linux
 /AssetBundle
 /*.apk
 /*.aab
