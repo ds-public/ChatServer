@@ -20,7 +20,7 @@ public partial class Build_Application
 
 	//------------------------------------
 	// Windows64用
-	private const string	m_Path_Windows64								= "TEMPLATE/template.exe" ;
+	private const string	m_Path_Windows64								= "Windows/template.exe" ;
 
 	private static string	VersionName_Windows64
 	{

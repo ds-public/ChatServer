@@ -51,14 +51,14 @@ Thumbs.db
 /.vscode
 /.vsconfig
 /Logs
-/TEMPLATE
+/Windows
+/Xcode
+/Recordings
 /Linux
 /AssetBundle
 /*.apk
 /*.aab
 /Build/Android/build.log
-/Xcode
-/Recordings
 
 
 
